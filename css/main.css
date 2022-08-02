@@ -116,6 +116,8 @@ header>div>div>img{
 }
 
 /*MAIN*/
+
+
 main{
   padding-top: 7rem;
 }
@@ -226,4 +228,15 @@ main>section.section3{
 .section3 .container-img div span{
   font-weight:bold;
   font-size: 1.2em;
+}
+
+/*FOOTER*/
+footer{
+  display: flex;
+  width: 100%;
+  background-color: #373B47;
+  color: #fff;
+  height: 10vh;
+  align-items: center;
+  justify-content: center;
 }
